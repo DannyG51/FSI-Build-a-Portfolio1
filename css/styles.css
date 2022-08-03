@@ -1,12 +1,48 @@
 body {
-    background-color: crimson;
+    background-color:lightblue
 
 }
 
 h1 { 
-    color: chartreuse;
+    color: rgb(39, 118, 27);
+    text-align: center;
 
 }
 div {
-    background-color: violet;
+
+border-spacing: 10pt;
+    
+}
+
+.main-selection {
+    background-color: rgb(70, 236, 28);
+    border: 0pt;
+    text-align: center;
+    font-size: 30pt;
+}
+
+.image-selection {
+
+    text-align: center;
+  
+    border-style: groove;
+  
+    width: fit-content;
+
+    border-width: 12pt;
+
+    border-spacing: 30pt;
+margin-left: auto;
+
+margin-right: auto;
+} 
+
+.Paragraph-1 {
+        text-align: center;
+}
+hr {
+
+    height: 2px;
+   
+    border-radius: 50%;
 }
